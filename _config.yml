@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:day-:month-:year/:title.html
-url: http://yihui.name/cn
-author: 谢益辉
+url: http://hyiltiz.github.io/cn
+author: Hörmetjan Yiltiz
 pygments: true
 
