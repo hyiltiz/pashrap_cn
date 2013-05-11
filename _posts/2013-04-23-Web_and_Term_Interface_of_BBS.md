@@ -8,6 +8,7 @@ tags: [software, BBS, comparison, UX]
 网站及其可用性
 ========
 
+这是为了工程心理学的关于Human Factors的一个小报告准备的提纲，先挂上来主要用来填充空空的页面。
 可用性的几个维度：
 
  - Learnability: How easy is it for users to accomplish basic tasks the first time they encounter the design?
