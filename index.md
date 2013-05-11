@@ -1,5 +1,5 @@
 ---
-title: Keep on Fighting!
+title: Your Pain is Self Chosen
 layout: page
 ---
 
