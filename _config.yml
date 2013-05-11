@@ -1,5 +1,5 @@
 markdown: rdiscount
-permalink: /:year/:month/:title/
+permalink: /:day-:month-:year/:title.html
 url: http://yihui.name/cn
 author: 谢益辉
 pygments: true
