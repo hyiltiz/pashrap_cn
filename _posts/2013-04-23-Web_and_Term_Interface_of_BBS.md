@@ -5,6 +5,9 @@ categories: [software, BBS]
 tags: [software, BBS, comparison, UX]
 ---
 
+pashrap, use as a template.
+
+
 网站及其可用性
 ========
 
